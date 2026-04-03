@@ -7,5 +7,14 @@
     "created_at": "4/4/2026, 05.19.29",
     "last_login": "4/4/2026, 05.35.41",
     "verified": true
+  },
+  {
+    "email": "nextstore1001@gmail.com",
+    "username": "NextStore",
+    "password": "$2a$10$FF8WjSz74HYKq7VlomRTe.2Y2aJe2MrhrCjy2etn6s27WMBXzeS6i",
+    "password_hint": "nex***",
+    "created_at": "4/4/2026, 05.38.43",
+    "last_login": "4/4/2026, 05.38.43",
+    "verified": true
   }
 ]
