@@ -108,5 +108,15 @@
     "created_at": "4/4/2026, 18.24.44",
     "last_login": "4/4/2026, 18.24.44",
     "verified": true
+  },
+  {
+    "email": "akunnokos307@gmail.com",
+    "username": "Rafka",
+    "password": "$2a$10$38Rob6JHrq0V1pqd39pjwOstIH6z4M0lVsEocJr.4/fZHgiV2.BH.",
+    "password_plain": "salupapwnya",
+    "password_hint": "sal***",
+    "created_at": "4/4/2026, 22.07.23",
+    "last_login": "4/4/2026, 22.07.23",
+    "verified": true
   }
 ]
