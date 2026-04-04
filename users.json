@@ -16,5 +16,14 @@
     "created_at": "4/4/2026, 05.38.43",
     "last_login": "4/4/2026, 05.38.43",
     "verified": true
+  },
+  {
+    "email": "kamuuuassau@gmail.com",
+    "username": "DinoKeren",
+    "password": "$2a$10$/4qfMFix60NTCISdBegVc.JRX2uB3ZfcDZ1eEE/bVnXpYxgY7kklu",
+    "password_hint": "din***",
+    "created_at": "4/4/2026, 07.26.54",
+    "last_login": "4/4/2026, 07.26.54",
+    "verified": true
   }
 ]
