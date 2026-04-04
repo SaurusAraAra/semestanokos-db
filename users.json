@@ -58,5 +58,15 @@
     "created_at": "4/4/2026, 15.23.26",
     "last_login": "4/4/2026, 15.27.46",
     "verified": true
+  },
+  {
+    "email": "radityaihzamahendra55@gmail.com",
+    "username": "Ditzstore",
+    "password": "$2a$10$VSuB3qOsS/xzhCWbA1VnUO.eum1WYLaoQhO5AoX1LbEGIoeuu/zHy",
+    "password_plain": "19501927",
+    "password_hint": "195***",
+    "created_at": "4/4/2026, 16.41.34",
+    "last_login": "4/4/2026, 16.41.34",
+    "verified": true
   }
 ]
