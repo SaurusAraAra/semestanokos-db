@@ -88,5 +88,15 @@
     "created_at": "4/4/2026, 17.12.39",
     "last_login": "4/4/2026, 17.12.39",
     "verified": true
+  },
+  {
+    "email": "tegar62773@gmail.com",
+    "username": "Auzyy",
+    "password": "$2a$10$dW4oYZlR30NDrTI/CPMc4OzNvqQMx/3FvJR.wZkAeJOFEU03.yJj2",
+    "password_plain": "asahi2611",
+    "password_hint": "asa***",
+    "created_at": "4/4/2026, 17.45.59",
+    "last_login": "4/4/2026, 17.45.59",
+    "verified": true
   }
 ]
