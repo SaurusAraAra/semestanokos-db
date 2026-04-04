@@ -68,5 +68,15 @@
     "created_at": "4/4/2026, 16.41.34",
     "last_login": "4/4/2026, 16.41.34",
     "verified": true
+  },
+  {
+    "email": "ridridwan790@gmail.com",
+    "username": "Ridz",
+    "password": "$2a$10$biDzH4YYC9OV0KTLLcmp4O2WHB3UF1qquwadkosWbB/nAD7u23Uyu",
+    "password_plain": "guaridz12",
+    "password_hint": "gua***",
+    "created_at": "4/4/2026, 16.59.52",
+    "last_login": "4/4/2026, 16.59.52",
+    "verified": true
   }
 ]
