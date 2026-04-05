@@ -10,7 +10,7 @@
     "price": 3670,
     "price_api": 2050,
     "admin_fee": 1620,
-    "status": "active",
+    "status": "canceled",
     "created_at": "5/4/2026, 12.15.56",
     "expired_at": 1775367355952
   },
