@@ -128,5 +128,15 @@
     "created_at": "5/4/2026, 12.13.01",
     "last_login": "5/4/2026, 12.13.01",
     "verified": true
+  },
+  {
+    "email": "tria71639@gmail.com",
+    "username": "trinihdek",
+    "password": "$2a$10$uzMrG.cSyP.y8piddYZvJu5eSu4uHJn3ZuuLlapcAu2L.hiX7LBSq",
+    "password_plain": "trinihdek123",
+    "password_hint": "tri***",
+    "created_at": "6/4/2026, 18.35.35",
+    "last_login": "6/4/2026, 18.35.35",
+    "verified": true
   }
 ]
