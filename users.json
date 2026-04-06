@@ -148,5 +148,15 @@
     "created_at": "6/4/2026, 21.32.00",
     "last_login": "6/4/2026, 21.32.00",
     "verified": true
+  },
+  {
+    "email": "mr5492784@gmail.com",
+    "username": "pleer",
+    "password": "$2a$10$ywhD4wp63qIm38RceGrnt.ozbt5NSH0lDEzFwCev9.3a97ch0jaDO",
+    "password_plain": "aabb1122",
+    "password_hint": "aab***",
+    "created_at": "7/4/2026, 06.00.35",
+    "last_login": "7/4/2026, 06.00.35",
+    "verified": true
   }
 ]
