@@ -138,5 +138,15 @@
     "created_at": "6/4/2026, 18.35.35",
     "last_login": "6/4/2026, 18.35.35",
     "verified": true
+  },
+  {
+    "email": "rafael134647@gmail.com",
+    "username": "awlelel",
+    "password": "$2a$10$4SMrenWz.vqruQQ0lN7cQOLmEV9o.O2RtadYoj0fsTiz0/vAKKspe",
+    "password_plain": "12345677",
+    "password_hint": "123***",
+    "created_at": "6/4/2026, 21.32.00",
+    "last_login": "6/4/2026, 21.32.00",
+    "verified": true
   }
 ]
