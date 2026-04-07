@@ -158,5 +158,15 @@
     "created_at": "7/4/2026, 06.00.35",
     "last_login": "7/4/2026, 06.01.41",
     "verified": true
+  },
+  {
+    "email": "hanzz7020@gmail.com",
+    "username": "Hmmm",
+    "password": "$2a$10$wsnupu4REsZPvlUNGCFhSuL7oFF8mMyRHKOchIUkUEwbfq6t8022y",
+    "password_plain": "66666666",
+    "password_hint": "666***",
+    "created_at": "7/4/2026, 12.57.31",
+    "last_login": "7/4/2026, 12.57.31",
+    "verified": true
   }
 ]
