@@ -178,5 +178,15 @@
     "created_at": "13/4/2026, 22.00.43",
     "last_login": "13/4/2026, 22.00.43",
     "verified": true
+  },
+  {
+    "email": "khususakuntt751@gmail.com",
+    "username": "ariff",
+    "password": "$2a$10$Aa8uljFgh60mU/ESRQDaXOmIiQzeAqHkXzfMV5trHIHkgrvs42O3m",
+    "password_plain": "arifff",
+    "password_hint": "ari***",
+    "created_at": "13/4/2026, 23.05.12",
+    "last_login": "13/4/2026, 23.05.12",
+    "verified": true
   }
 ]
