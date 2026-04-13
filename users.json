@@ -168,5 +168,15 @@
     "created_at": "7/4/2026, 12.57.31",
     "last_login": "7/4/2026, 12.57.31",
     "verified": true
+  },
+  {
+    "email": "ashaasayangarka@gmail.com",
+    "username": "ashahah",
+    "password": "$2a$10$2zLrYbj8MzYGWc8PT6X7neldIR0878juPA9cRcb.faISOdZYQQKYm",
+    "password_plain": "010113",
+    "password_hint": "010***",
+    "created_at": "13/4/2026, 22.00.43",
+    "last_login": "13/4/2026, 22.00.43",
+    "verified": true
   }
 ]
