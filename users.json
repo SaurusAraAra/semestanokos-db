@@ -198,5 +198,15 @@
     "created_at": "15/4/2026, 17.22.16",
     "last_login": "15/4/2026, 17.22.16",
     "verified": true
+  },
+  {
+    "email": "rezaperatamax@gmail.com",
+    "username": "Reza1122",
+    "password": "$2a$10$4ACOh1qJcUrx3XSPlBa9ueG4INLnwiNHInf3ZrcfMAAHOxwyoqXeK",
+    "password_plain": "Reza1122",
+    "password_hint": "Rez***",
+    "created_at": "25/4/2026, 06.05.21",
+    "last_login": "25/4/2026, 06.05.21",
+    "verified": true
   }
 ]
