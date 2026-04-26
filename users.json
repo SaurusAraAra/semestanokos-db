@@ -208,5 +208,15 @@
     "created_at": "25/4/2026, 06.05.21",
     "last_login": "25/4/2026, 06.05.21",
     "verified": true
+  },
+  {
+    "email": "nizamsukapngnizamjelah@gmail.com",
+    "username": "Jams",
+    "password": "$2a$10$YHvyMnmEubvUxIkUx/DhRexi3TcyKjGWOu7o3n2QMsSqSxyzrVHiu",
+    "password_plain": "112233",
+    "password_hint": "112***",
+    "created_at": "26/4/2026, 09.11.05",
+    "last_login": "26/4/2026, 09.11.05",
+    "verified": true
   }
 ]
