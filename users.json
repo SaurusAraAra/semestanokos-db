@@ -218,5 +218,15 @@
     "created_at": "26/4/2026, 09.11.05",
     "last_login": "26/4/2026, 09.11.05",
     "verified": true
+  },
+  {
+    "email": "tasyatasya454511@gmail.com",
+    "username": "asháshy",
+    "password": "$2a$10$6xdkfeVi8bKz/dzienNf1Ou9ilB8gIoXe/EG1qCYmTwitUICm88rO",
+    "password_plain": "12345678",
+    "password_hint": "123***",
+    "created_at": "30/4/2026, 11.28.24",
+    "last_login": "30/4/2026, 11.28.24",
+    "verified": true
   }
 ]
