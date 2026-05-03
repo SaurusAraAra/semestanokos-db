@@ -228,5 +228,15 @@
     "created_at": "30/4/2026, 11.28.24",
     "last_login": "30/4/2026, 11.28.24",
     "verified": true
+  },
+  {
+    "email": "boboi123e@gmail.com",
+    "username": "yanzkzkzkz",
+    "password": "$2a$10$JGYaU6WPnqga7pmxT7sOYuP8Mr9a8zO2VulqOMOzf7aOHkCtP8V86",
+    "password_plain": "$$##1234",
+    "password_hint": "$$#***",
+    "created_at": "3/5/2026, 07.25.15",
+    "last_login": "3/5/2026, 07.25.15",
+    "verified": true
   }
 ]
